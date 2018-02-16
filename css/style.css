@@ -1,0 +1,169 @@
+/*when you use css use display inline to place it in line, float to move it acroos the 
+
+.box /*calls an item from the class*/
+{
+	background-color: rgb(225, 231, 242);
+	border: 2px black solid;
+	width: 400px;
+	height: 350px;
+	position:  absolute;
+	right: 90px;
+	top: 150px ;
+
+}
+
+/*homepage with desmond*/
+.Home_page_title p
+{
+	font-color: black;
+	font-size: 40px;
+	position: absolute;
+	top: -30px;
+	right: 150PX;
+	border: 2px black dotted;
+}
+
+.face_img img
+{
+	border: 5px red solid;
+	position: absolute;
+	left: 140px;
+	top: 80px ;
+}
+
+.user_name a/*log in as desmond*/
+{
+	font-color: black;
+	font-size: 18px;
+	position: absolute;
+	bottom:100px;
+	left:130px;
+	background-color: rgb(151, 181, 229);
+	
+	padding-right: 5px;
+	padding-left: 5px;
+	border: 0.5px black solid;
+
+}
+
+.not_you a/*not your user*/
+{
+	position: absolute;
+	bottom: 50px;
+	left: 150px;
+}
+
+.get_the_app p
+{
+	position: absolute;
+	bottom: 90px;
+	right: 200px;
+}
+
+.app /*app store image*/
+{
+	position: absolute;
+	right: 100px;
+	bottom: 30px;
+}
+
+.google
+{
+	position: absolute;
+	right: 330px;
+	bottom: 30px;
+}
+
+.phone_image img
+{
+	
+	padding: 0px;
+	margin: 0px;
+	position: absolute;
+	left: 260px;
+	top: 50px;
+	
+}
+/*sign up page*/
+.S_title p
+{
+	font-color: black;
+	font-size: 40px;
+	position: absolute;
+	top: -30px;
+	right: 150PX;
+	border: 2px black dotted;
+}
+
+.S_box
+{
+	background-color: rgb(225, 231, 242);
+	border: 2px black solid;
+	width: 400px;
+	height: 420px;
+	position:  absolute;
+	right: 90px;
+	top: 20px ;
+}
+
+.intro p
+{
+	font-size: 18px;
+	font-color: silver ;
+	opacity: 0.8;
+
+	position: absolute;
+	top: 40px;
+	left: 10px;
+}
+
+.input_casing
+{
+	position: absolute;
+	right:130px;
+	top:150px;
+	
+	height: 120px
+}
+
+.password
+{
+	position: absolute;
+	top: 120px;
+}
+
+.Full_name
+{
+	position: absolute;
+	top: 40px;
+
+}
+.username
+{
+	position: absolute;
+	top: 80px;
+}
+
+.link
+{
+	position: absolute;
+	right:190px;
+	bottom:10px;
+}
+
+.accont 
+{
+	
+	position: absolute;
+	right:280px;
+	bottom:130px;
+}
+
+.accont a
+{
+	
+	position: absolute;
+	right: -50px;
+	top: 16px;
+}
+
